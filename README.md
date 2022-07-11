@@ -1,6 +1,6 @@
 # Dogs and Cats Binary Classification with Deep Learning
 
-A deep Convolutional neiral network to classify photographs of cats and dogs.
+A deep Convolutional neural network to classify photographs of cats and dogs.
 
 ![](output.png)
 
